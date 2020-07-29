@@ -1,7 +1,7 @@
----
-title: "Basic Git Commans"
----
 
+---
+title: "Basic Git Commands"
+---
 # Getting Started
 
 Basic commands to [[version control]] files with [[git]]
