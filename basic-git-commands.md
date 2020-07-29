@@ -1,6 +1,6 @@
 
 ---
-title: "Basic Git Commands"
+title: Basic Git Commands
 ---
 # Getting Started
 
